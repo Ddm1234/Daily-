@@ -58,3 +58,4 @@ sars
 erai
 yeis
 firsi
+sirak
