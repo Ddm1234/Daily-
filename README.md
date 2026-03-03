@@ -45,3 +45,4 @@ drag
 xetd
 sfedg
 srwe
+swf
